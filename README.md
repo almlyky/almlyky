@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ABOBAKER HAMID</h1>
 <h3 align="center">Software Engineer</h3>
 
-- I’m looking to collaborate on [E-commerce](https://github.com/almlyky/ecommerce-flutter.git)
+-  [E-commerce](https://github.com/almlyky/ecommerce-flutter.git)
 
-- 👯 I’m looking to collaborate on [TravelApp](https://github.com/almlyky/travelsApp.git)
+-  [TravelApp](https://github.com/almlyky/travelsApp.git)
 
-- 🤝 I’m looking for help with [Timetable](https://github.com/almlyky/timetable_frontend.git)
+-  [Timetable](https://github.com/almlyky/timetable_frontend.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
