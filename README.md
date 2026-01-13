@@ -35,11 +35,18 @@ An intelligent scheduling system that generates conflict-free timetables using c
 ---
 
 ### 🌐 Connect with me
+
 <p align="left">
-  <a href="https://fb.com/Abobaker Hamid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
+  📧 <b>Email:</b> <a href="mailto:abwbkrhmyd479@gmail.com">abwbkrhmyd479@gmail.com</a><br/>
+  📱 <b>Phone:</b> <a href="tel:+967773880270">+967773880270</a>
 </p>
+
+<!-- <p align="left">
+  <a href="https://fb.com/abubakr hammed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+</p> -->
+
 
 ---
 
