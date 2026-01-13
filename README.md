@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm ABOBAKER HAMID</h1>
-<h3 align="center">Software Engineer | Mobile & Backend Developer</h3>
+<h3 align="center">Software Engineer | Mobile (Flutter) & Backend Developer (Django & Laravel)</h3>
 
 <p align="center">
 🚀 Passionate about building scalable mobile applications and intelligent backend systems  
-<br/>
-📱 Flutter Developer | 🧠 Problem Solver | ⚙️ Backend with Django
-</p>
-
 ---
 
 ### 🔥 Current Project
 - 🛒 **Auction (Flutter)**  
-  👉 <a href="[Auction](https://github.com/almlyky/auction_flutter.git)">View Repository</a>
+  👉 <a href="https://github.com/almlyky/auction_flutter.git">View Repository</a>
 <!-- <p>
 📅 <b>Smart Timetable Scheduler</b><br/>
 An intelligent scheduling system that generates conflict-free timetables using constraint solving.
