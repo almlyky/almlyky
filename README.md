@@ -36,7 +36,7 @@ An intelligent scheduling system that generates conflict-free timetables using c
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://fb.com/abubakr hammed" target="_blank">
+  <a href="https://fb.com/Abobaker Hamid" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
 </p>
