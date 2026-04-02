@@ -7,7 +7,7 @@
 
 ### 🔥 Current Project
 - 🛒 **Auction (Flutter)**  
-  👉 <a href="https://github.com/almlyky/auction_flutter.git">View Repository</a>
+  👉 <a href="https://github.com/almlyky/auction_clean_arch.git">View Repository</a>
 <!-- <p>
 📅 <b>Smart Timetable Scheduler</b><br/>
 An intelligent scheduling system that generates conflict-free timetables using constraint solving.
